@@ -1,0 +1,25 @@
+.box{
+	height: 50px;
+	width: 50px;
+	border: 1px solid #000;
+	border-radius:10px;
+	display:inline-block;
+}
+
+#palette{
+	margin-top: 1em;
+	margin:0.25em;
+}
+#picked-color{
+	height:100px;
+	width:100px;
+	line-height:1em;
+	text-align:center;
+}
+.pixel{
+	height:5px;
+	width:5px;
+	display:inline-block;
+	border: 1px solid #ededed;
+	float:left;
+}
